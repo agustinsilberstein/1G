@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472512859 source:d:\alumno 1g\suma\sumaprueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functionSuma.h"
+
+1472513039 d:\alumno 1g\suma\sumaprueba\functionsuma.h
+
